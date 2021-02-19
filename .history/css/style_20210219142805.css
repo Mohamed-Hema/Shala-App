@@ -127,20 +127,6 @@ ul{
 .section-title h2 span{
     color: var(--main-color);
 }
-.owl-carousel .owl-dots{
-    color: var(--main-color);
-}
-.owl-carousel .owl-dots{
-
-}
-.owl-carousel button.owl-dot{
-    height: 5px;
-    width: 24px;
-    background-color: #ddd;
-    display: inline-block;
-    margin: 0 4px;
-    border-radius: 5px;
-}
 /* End Global Styles */
 /* Start Navbar */
 .navbar{
@@ -334,8 +320,6 @@ ul{
     position: absolute;
     z-index: -1;
     border-radius: 50%;
-    transition: all .5s ease;
-    opacity: 0;
 }
 .features .feature-item::before{
     height: 20px;

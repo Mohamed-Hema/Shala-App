@@ -130,13 +130,10 @@ ul{
 .owl-carousel .owl-dots{
     color: var(--main-color);
 }
-.owl-carousel .owl-dots{
-
-}
 .owl-carousel button.owl-dot{
     height: 5px;
     width: 24px;
-    background-color: #ddd;
+    background-color: #dddddd;
     display: inline-block;
     margin: 0 4px;
     border-radius: 5px;
